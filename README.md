@@ -1,2 +1,2 @@
 # IAR
-Repository for alternativ investment analysis
+Repository for alternative investment analysis
